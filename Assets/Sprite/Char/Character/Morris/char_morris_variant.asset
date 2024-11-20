@@ -1,0 +1,436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: char_morris_variant
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: eye
+    m_Hash: 1920501681
+    m_CategoryList:
+    - m_Name: eye1
+      m_Hash: 1070076970
+      m_Sprite: {fileID: 5345771871954508219, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: eye2
+      m_Hash: -1497283184
+      m_Sprite: {fileID: -4304505880302368260, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye3
+      m_Hash: -775523066
+      m_Sprite: {fileID: 3338795230396707222, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye4
+      m_Hash: 1336074405
+      m_Sprite: {fileID: -3826792687294286860, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye5
+      m_Hash: 950390835
+      m_Sprite: {fileID: -2542561753460365753, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye6
+      m_Hash: -1582530167
+      m_Sprite: {fileID: -547430243062062355, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye7
+      m_Hash: -693391073
+      m_Sprite: {fileID: 905013820941765272, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye8
+      m_Hash: 1175760014
+      m_Sprite: {fileID: 5151178851122022802, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye9
+      m_Hash: 823368728
+      m_Sprite: {fileID: 7658315909274153228, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye10
+      m_Hash: 794812131
+      m_Sprite: {fileID: 4805646100350082362, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye11
+      m_Hash: 1482223221
+      m_Sprite: {fileID: -5705222399760664416, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: eye12
+      m_Hash: -1051607089
+      m_Sprite: {fileID: 9080701288337891126, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+  - m_Name: lip
+    m_Hash: 1521896068
+    m_CategoryList:
+    - m_Name: lip1
+      m_Hash: 1767055044
+      m_Sprite: {fileID: 706288198371886994, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: lip2
+      m_Hash: -262516866
+      m_Sprite: {fileID: -3248888562380777562, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip3
+      m_Hash: -2023915544
+      m_Sprite: {fileID: 669880058955168951, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip4
+      m_Hash: 423225931
+      m_Sprite: {fileID: 2339726305130388163, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip5
+      m_Hash: 1849613021
+      m_Sprite: {fileID: 8909879874740435256, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip6
+      m_Hash: -147354777
+      m_Sprite: {fileID: -55371070198742167, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip7
+      m_Hash: -2144289807
+      m_Sprite: {fileID: 5119437325624564834, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip8
+      m_Hash: 277849696
+      m_Sprite: {fileID: -7010990558387013032, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip9
+      m_Hash: 1737004790
+      m_Sprite: {fileID: -6809289339506708971, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip10
+      m_Hash: 1757121174
+      m_Sprite: {fileID: -1065712152528483202, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip11
+      m_Hash: 532462080
+      m_Sprite: {fileID: -8977150804584798749, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip12
+      m_Hash: -2034897990
+      m_Sprite: {fileID: -1772122297921933550, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+    - m_Name: lip13
+      m_Hash: -239936724
+      m_Sprite: {fileID: -2684087249798960415, guid: 83e2b66ab2be526458dfbc6162d81984, type: 3}
+  - m_Name: body
+    m_Hash: -609743950
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: 5549310151086976705, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -1321038460347844703, guid: 482b733b1d220164684f5d66ed8d18e6, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 7665361858045184445, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: 1723593886905630969, guid: 687ad8dd307f33e429996bad5523f84d, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: 8049422284438749385, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: 4998351158594483287, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: 1971910686098644680, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: -7183835250193498673, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+    - m_Name: restaurant
+      m_Hash: -342552001
+      m_Sprite: {fileID: 8871497511570637116, guid: 0c6768fb8717f474298962a9f0d510ea, type: 3}
+  - m_Name: right_forearm
+    m_Hash: 58767888
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: 2969076088131499585, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 3619011027680115358, guid: 482b733b1d220164684f5d66ed8d18e6, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 6720691480103583771, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: 9004390029053273848, guid: 687ad8dd307f33e429996bad5523f84d, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: 639620498232428808, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: 2996055949045984392, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: 4883097652134297348, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: -6915809220324006254, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+    - m_Name: restaurant
+      m_Hash: -342552001
+      m_Sprite: {fileID: -6915809220324006254, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+  - m_Name: right_arm
+    m_Hash: -1519565492
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: 1470410909650947349, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 4436958075262122951, guid: 482b733b1d220164684f5d66ed8d18e6, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 7412440375665510693, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: 1363311416261818415, guid: 687ad8dd307f33e429996bad5523f84d, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: -3452327140328100219, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: 2494599220640187633, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: -2128857538078712626, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: -4904633152398025696, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+    - m_Name: restaurant
+      m_Hash: -342552001
+      m_Sprite: {fileID: -4904633152398025696, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+  - m_Name: left_forearm
+    m_Hash: 1938754896
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: -369748116358408349, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 5412723407824587488, guid: 482b733b1d220164684f5d66ed8d18e6, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 7400109717777849609, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: -294622021575408958, guid: 687ad8dd307f33e429996bad5523f84d, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: 6555697464195591663, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: -2667038886462674302, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: 3358649324798349854, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: 1789448641184833957, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+    - m_Name: restaurant
+      m_Hash: -342552001
+      m_Sprite: {fileID: 1789448641184833957, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+  - m_Name: left_arm
+    m_Hash: 493231077
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: 1014880821978159659, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -7421229589290059746, guid: 482b733b1d220164684f5d66ed8d18e6, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 5848919651828773148, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: -97785898381091498, guid: 687ad8dd307f33e429996bad5523f84d, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: -6085359887699630984, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: 8177858395515633967, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: -3566588219600666937, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: 5181579525230612455, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+    - m_Name: restaurant
+      m_Hash: -342552001
+      m_Sprite: {fileID: 5181579525230612455, guid: d991669a3924d384ab1e3e60c81b0a85, type: 3}
+  - m_Name: right_thigh
+    m_Hash: -488959653
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: 5730777708452709000, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 5730777708452709000, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: -4936597307732978434, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: -4936597307732978434, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: -1555242782115437458, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: -7506477438253219207, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: -951658787321992560, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: -4936597307732978434, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+  - m_Name: right_leg
+    m_Hash: 1222884247
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: 9212816973438003582, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 9212816973438003582, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: -3748376874204322295, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: -3748376874204322295, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: 5441426873938983158, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: 9132915962714779054, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: 4266942774287451164, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: -3748376874204322295, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+  - m_Name: left_thigh
+    m_Hash: 298701315
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: 389179185589176831, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 389179185589176831, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 4595672442902847427, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: 4595672442902847427, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: 5912347985875946361, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: -6606549257894083137, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: -4916102914692253618, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: 4595672442902847427, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+  - m_Name: left_leg
+    m_Hash: -253172418
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: -6702700179847468304, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -6702700179847468304, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 2529099233707878545, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: 2529099233707878545, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: -43605572532205462, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: 5219124771985246638, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: -3418887084629336464, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: 2529099233707878545, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+  - m_Name: pelvis
+    m_Hash: -1215432594
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: -8987502001674973898, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -8987502001674973898, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: -3947848714940872855, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: -3947848714940872855, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: 6952355041162277844, guid: 2b91f715eacb0674d8b966f4fff9344a, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: -6616638853736754213, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: 4781865848468907152, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: -3947848714940872855, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+  - m_Name: right_shoes
+    m_Hash: -333112681
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: -5448897905702572082, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -5448897905702572082, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 587547317637067683, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: 587547317637067683, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: 587547317637067683, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: 2421550202784809458, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: -5460703523755795564, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: 587547317637067683, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+  - m_Name: left_shoes
+    m_Hash: 523491791
+    m_CategoryList:
+    - m_Name: blazer
+      m_Hash: -733911124
+      m_Sprite: {fileID: -7325493851770253637, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -7325493851770253637, guid: a132b41101a08c04889364696786511c, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 5771325197207915501, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: stripes
+      m_Hash: -1877703155
+      m_Sprite: {fileID: 5771325197207915501, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: hood
+      m_Hash: 887578308
+      m_Sprite: {fileID: 5771325197207915501, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+    - m_Name: polo
+      m_Hash: 498445311
+      m_Sprite: {fileID: 5232774408133902684, guid: 9561db983f6f3cd4dbdd485457a9ceee, type: 3}
+    - m_Name: suit
+      m_Hash: -375185634
+      m_Sprite: {fileID: 1134088666470796703, guid: de395337678a71748bf913e552cdbddf, type: 3}
+    - m_Name: market
+      m_Hash: 1806468555
+      m_Sprite: {fileID: 5771325197207915501, guid: c9aa6cc3b279c774d9c3fb30e4d426c6, type: 3}
+  m_ModificationHash: 0

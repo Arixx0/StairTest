@@ -1,0 +1,727 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 36
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: earring
+    m_Hash: -1430193914
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: 7467610283714173527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7467610283714173527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshrit
+      m_Hash: -709660046
+      m_Sprite: {fileID: 7467610283714173527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7467610283714173527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: 8383626540624135382, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8383626540624135382, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: 4535634739494426371, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4535634739494426371, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 8383626540624135382, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8383626540624135382, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 7467610283714173527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7467610283714173527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: -2177720739587951242, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2177720739587951242, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: 5003083576324177441, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5003083576324177441, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: 7467610283714173527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7467610283714173527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: necklace
+    m_Hash: 1386377493
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -5306078974740700205, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5306078974740700205, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6661566898861024047, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: -5306078974740700205, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5306078974740700205, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: 2417205263911906989, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2417205263911906989, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  - m_Name: eye
+    m_Hash: 1920501681
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: face_annoyed
+      m_Hash: -556813581
+      m_Sprite: {fileID: -2128492987038840495, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2128492987038840495, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_happy
+      m_Hash: 1989575498
+      m_Sprite: {fileID: -7221477691065680830, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7221477691065680830, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_idle
+      m_Hash: 1886762535
+      m_Sprite: {fileID: -2424003124857210827, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2424003124857210827, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_sad
+      m_Hash: 1916109463
+      m_Sprite: {fileID: 7540262609992817018, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7540262609992817018, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_smile
+      m_Hash: -890174580
+      m_Sprite: {fileID: 2350634106558052917, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2350634106558052917, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_surprise
+      m_Hash: -573845396
+      m_Sprite: {fileID: 4127061679084361668, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4127061679084361668, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_talk
+      m_Hash: 863360649
+      m_Sprite: {fileID: -2424003124857210827, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2424003124857210827, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_worried
+      m_Hash: 181968403
+      m_Sprite: {fileID: -5861150414785285401, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5861150414785285401, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_love
+      m_Hash: -70036689
+      m_Sprite: {fileID: -3272168174780076904, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3272168174780076904, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_sigh
+      m_Hash: -632539143
+      m_Sprite: {fileID: 3396068793472988029, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3396068793472988029, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_gloomy
+      m_Hash: 1439439533
+      m_Sprite: {fileID: -5861150414785285401, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5861150414785285401, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 11
+  - m_Name: lip
+    m_Hash: 1521896068
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: face_annoyed
+      m_Hash: -556813581
+      m_Sprite: {fileID: -937105008276222665, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -937105008276222665, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_happy
+      m_Hash: 1989575498
+      m_Sprite: {fileID: 7511268437585303936, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7511268437585303936, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_idle
+      m_Hash: 1886762535
+      m_Sprite: {fileID: -509557390257741080, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -509557390257741080, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_sad
+      m_Hash: 1916109463
+      m_Sprite: {fileID: 6067338698329111371, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6067338698329111371, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_smile
+      m_Hash: -890174580
+      m_Sprite: {fileID: 3309744086754435887, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3309744086754435887, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_surprise
+      m_Hash: -573845396
+      m_Sprite: {fileID: 3963602246052952988, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3963602246052952988, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_talk
+      m_Hash: 863360649
+      m_Sprite: {fileID: 6572207756845181271, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6572207756845181271, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_worried
+      m_Hash: 181968403
+      m_Sprite: {fileID: 6067338698329111371, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6067338698329111371, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_love
+      m_Hash: -70036689
+      m_Sprite: {fileID: 277104487440221540, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 277104487440221540, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_sigh
+      m_Hash: -632539143
+      m_Sprite: {fileID: -3673065476082895703, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3673065476082895703, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: face_gloomy
+      m_Hash: 1439439533
+      m_Sprite: {fileID: 5885610051031129116, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5885610051031129116, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 11
+  - m_Name: eyeclose
+    m_Hash: 163777662
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: face_1
+      m_Hash: -1068563554
+      m_Sprite: {fileID: 5434909433198549735, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5434909433198549735, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: lipclose
+    m_Hash: 575215795
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: face_1
+      m_Hash: -1068563554
+      m_Sprite: {fileID: 3309744086754435887, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3309744086754435887, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: right_forearm
+    m_Hash: 58767888
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: -4614178393597150708, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4614178393597150708, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: -3065766771153147220, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3065766771153147220, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: -5813738147269065983, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5813738147269065983, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: 9073312938582010359, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 9073312938582010359, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 5137760563731116154, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5137760563731116154, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: -8750407995377722306, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8750407995377722306, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: -6226640404823219163, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6226640404823219163, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: 2462560251257895439, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2462560251257895439, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: -564612504548044260, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -564612504548044260, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: right_arm
+    m_Hash: -1519565492
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: 4154548227378710172, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4154548227378710172, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 6944305241069298659, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6944305241069298659, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: 4280365659164036658, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4280365659164036658, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: -6962638727434325867, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6962638727434325867, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 1226763039408230117, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1226763039408230117, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: -4100973597008078600, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4100973597008078600, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: -623749192087374640, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -623749192087374640, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: 2944818133808016921, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2944818133808016921, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: -7589406100907897758, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7589406100907897758, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: torso
+    m_Hash: 660585605
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: -1700058416417639804, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1700058416417639804, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: -7693258568085032387, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7693258568085032387, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: 4255363734890899138, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4255363734890899138, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: -2895278237100805007, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2895278237100805007, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 268899653706835130, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 268899653706835130, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: -2039504041162143873, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2039504041162143873, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: 3556251638722737607, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3556251638722737607, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: -4252622370292422480, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4252622370292422480, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: 8962461956671367290, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8962461956671367290, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: right_thigh
+    m_Hash: -488959653
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: -7353310501688726597, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7353310501688726597, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: -7353310501688726597, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7353310501688726597, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: -8965578921221843632, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8965578921221843632, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: 609516945566208222, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 609516945566208222, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -7353310501688726597, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7353310501688726597, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: -6758772412178954527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6758772412178954527, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: 5382286861234320425, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5382286861234320425, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: -6292063444082517065, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6292063444082517065, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: 609516945566208222, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 609516945566208222, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: right_leg
+    m_Hash: 1222884247
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: 4867035664443067302, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4867035664443067302, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 4867035664443067302, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4867035664443067302, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: 6101693281934128267, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6101693281934128267, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: -9101746974938326567, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -9101746974938326567, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 4867035664443067302, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4867035664443067302, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: 4280889409046546913, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4280889409046546913, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: 354484077383804303, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 354484077383804303, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: -7801868288035932046, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7801868288035932046, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: -9101746974938326567, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -9101746974938326567, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: left_thigh
+    m_Hash: 298701315
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: 30302228377867318, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 30302228377867318, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 30302228377867318, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 30302228377867318, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: 1190940776692179022, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1190940776692179022, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: -7872508408942295498, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7872508408942295498, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 30302228377867318, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 30302228377867318, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: -3552609375676635469, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3552609375676635469, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: 4939192926030426135, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4939192926030426135, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: 4348003684188582651, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 4348003684188582651, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: -7872508408942295498, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7872508408942295498, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: left_leg
+    m_Hash: -253172418
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: 2477531417593114993, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2477531417593114993, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 2477531417593114993, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2477531417593114993, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: 7927084505157978995, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7927084505157978995, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: -5890812838938413093, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5890812838938413093, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: 2477531417593114993, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2477531417593114993, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: -7980510627429719233, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7980510627429719233, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: 6913208593199919658, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6913208593199919658, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: -3001849181696451786, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3001849181696451786, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: -5890812838938413093, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5890812838938413093, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: left_forearm
+    m_Hash: 1938754896
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: 7849879269286510442, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7849879269286510442, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: -4740511056798236843, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4740511056798236843, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: -6676165928323150244, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6676165928323150244, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: 5535893695520457079, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5535893695520457079, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -5228942817645970524, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5228942817645970524, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: 789250153543431754, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 789250153543431754, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: -6732727775761840570, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6732727775761840570, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: -6154329948807799323, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6154329948807799323, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: 3953481149772975310, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 3953481149772975310, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: left_arm
+    m_Hash: 493231077
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: sleeveless
+      m_Hash: 2071835874
+      m_Sprite: {fileID: 1499348065297860330, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1499348065297860330, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: tshirt
+      m_Hash: 1828124025
+      m_Sprite: {fileID: 9070845578164611441, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 9070845578164611441, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: redshirt
+      m_Hash: -1942258553
+      m_Sprite: {fileID: -7116729049997923171, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7116729049997923171, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: jumper
+      m_Hash: 312683100
+      m_Sprite: {fileID: -132453139169769107, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -132453139169769107, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: shirt
+      m_Hash: -1952060400
+      m_Sprite: {fileID: -3768106021036052489, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3768106021036052489, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: sportswear
+      m_Hash: 682879229
+      m_Sprite: {fileID: 7153615659108844573, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7153615659108844573, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: skirt
+      m_Hash: -1726987266
+      m_Sprite: {fileID: -7880725851342007594, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7880725851342007594, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: coat
+      m_Hash: 1624433711
+      m_Sprite: {fileID: 8453867123603899533, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8453867123603899533, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    - m_Name: club
+      m_Hash: -1192347534
+      m_Sprite: {fileID: 7435190652579754251, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7435190652579754251, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 9
+  - m_Name: hairback
+    m_Hash: -1416703968
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: hairback_1
+      m_Hash: 1047727782
+      m_Sprite: {fileID: 8047652922600189816, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8047652922600189816, guid: 72b80447624174f40843cfe9b5778a4b, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  m_PrimaryLibraryGUID: 

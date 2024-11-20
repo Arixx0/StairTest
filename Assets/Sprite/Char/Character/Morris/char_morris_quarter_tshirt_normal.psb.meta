@@ -1,0 +1,1358 @@
+fileFormatVersion: 2
+guid: 8afa8e4484d8e6244b0ce1508d166ac2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: right_arm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 206
+      width: 33
+      height: 128
+    spriteID: aec58614e21367544b5fe766d429e8af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 206}
+    spritePosition: {x: 417, y: 286}
+  - name: right_forearm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 387
+      width: 27
+      height: 108
+    spriteID: eef480c0a51eb6d47936350c4a8c0a31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 387}
+    spritePosition: {x: 419, y: 401}
+  - name: body_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 88
+      height: 194
+    spriteID: b521b28ac8d37284a8f0d8eb6d2b0449
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 420, y: 332}
+  - name: right_shoes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 64
+      width: 64
+      height: 27
+    spriteID: 59b6795649532bd46954bcc5dd18904b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 64}
+    spritePosition: {x: 438, y: 124}
+  - name: right_leg_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 4
+      width: 29
+      height: 125
+    spriteID: 8fc22f388ec6d65458fdbfe1901aa1f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 4}
+    spritePosition: {x: 436, y: 135}
+  - name: right_thigh_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 322
+      width: 34
+      height: 108
+    spriteID: a28320cd2ba38fc46b9f4d42a3c24764
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 322}
+    spritePosition: {x: 431, y: 235}
+  - name: left_shoes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 99
+      width: 66
+      height: 26
+    spriteID: 46a52b005fa198a49bbe4289979646a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 99}
+    spritePosition: {x: 471, y: 125}
+  - name: left_leg_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 137
+      width: 29
+      height: 125
+    spriteID: cd227f3b577a64a4f8505c049f503dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 137}
+    spritePosition: {x: 468, y: 135}
+  - name: left_thigh_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 270
+      width: 28
+      height: 109
+    spriteID: 7cac3fedb34592d44a32d4396c9b11d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 270}
+    spritePosition: {x: 469, y: 234}
+  - name: pelvis_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 4
+      width: 66
+      height: 52
+    spriteID: 128a2340a0fcd62428b124e65cb2afe0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 4}
+    spritePosition: {x: 431, y: 328}
+  - name: left_arm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 31
+      height: 128
+    spriteID: 9ed25e08171d6cb488bcf1f76607ac2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 342}
+    spritePosition: {x: 469, y: 286}
+  - name: left_forearm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 206
+      width: 35
+      height: 108
+    spriteID: 8660f43017e7dd347aa78aaca2e32201
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 206}
+    spritePosition: {x: 469, y: 401}
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: right_arm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 206
+      width: 33
+      height: 128
+    spriteID: 302de532f252d844caafc8a649b09185
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -413, y: -80}
+    spritePosition: {x: 0, y: 0}
+  - name: right_forearm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 387
+      width: 27
+      height: 108
+    spriteID: 6f64fefdb5d31084187b3158f7482332
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -319, y: -14}
+    spritePosition: {x: 0, y: 0}
+  - name: body_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 88
+      height: 194
+    spriteID: 580a52367df7f354084ebeeccfa14083
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -416, y: -328}
+    spritePosition: {x: 0, y: 0}
+  - name: right_shoes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 64
+      width: 64
+      height: 27
+    spriteID: 9c0c6d9dfb363b1468bc58b5f7973bc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -301, y: -60}
+    spritePosition: {x: 0, y: 0}
+  - name: right_leg_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 4
+      width: 29
+      height: 125
+    spriteID: b703d5816d5b50b438dbe2ebe7c7779b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -336, y: -131}
+    spritePosition: {x: 0, y: 0}
+  - name: right_thigh_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 322
+      width: 34
+      height: 108
+    spriteID: 141e4b8d391f0464badd633947bb1ef6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -386, y: 87}
+    spritePosition: {x: 0, y: 0}
+  - name: left_shoes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 99
+      width: 66
+      height: 26
+    spriteID: 665442e9eba399a468ed3cff16f488df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -334, y: -26}
+    spritePosition: {x: 0, y: 0}
+  - name: left_leg_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 137
+      width: 29
+      height: 125
+    spriteID: 0120b828cd97b5a4fb6d99367a8c37d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -368, y: 2}
+    spritePosition: {x: 0, y: 0}
+  - name: left_thigh_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 270
+      width: 28
+      height: 109
+    spriteID: 85a0b49e3ad5a1b4f80d0de31d85094b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -369, y: 36}
+    spritePosition: {x: 0, y: 0}
+  - name: pelvis_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 4
+      width: 66
+      height: 52
+    spriteID: d1076661299ecb34ba75b6ed38a91a6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -294, y: -324}
+    spritePosition: {x: 0, y: 0}
+  - name: left_arm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 31
+      height: 128
+    spriteID: 970b9d697e41aff43b0afa4f9ccc7319
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -465, y: 56}
+    spritePosition: {x: 0, y: 0}
+  - name: left_forearm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 206
+      width: 35
+      height: 108
+    spriteID: b26fc6580e20e0448801f9ef8cb916aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: -424, y: -195}
+    spritePosition: {x: 0, y: 0}
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData:
+  - name: right_arm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 206
+      width: 33
+      height: 128
+    spriteID: aec58614e21367544b5fe766d429e8af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 206}
+    spritePosition: {x: 417, y: 286}
+  - name: right_forearm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 387
+      width: 27
+      height: 108
+    spriteID: eef480c0a51eb6d47936350c4a8c0a31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 387}
+    spritePosition: {x: 419, y: 401}
+  - name: body_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 88
+      height: 194
+    spriteID: b521b28ac8d37284a8f0d8eb6d2b0449
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 420, y: 332}
+  - name: right_shoes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 64
+      width: 64
+      height: 27
+    spriteID: 59b6795649532bd46954bcc5dd18904b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 64}
+    spritePosition: {x: 438, y: 124}
+  - name: right_leg_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 4
+      width: 29
+      height: 125
+    spriteID: 8fc22f388ec6d65458fdbfe1901aa1f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 4}
+    spritePosition: {x: 436, y: 135}
+  - name: right_thigh_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 322
+      width: 34
+      height: 108
+    spriteID: a28320cd2ba38fc46b9f4d42a3c24764
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 322}
+    spritePosition: {x: 431, y: 235}
+  - name: left_shoes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 99
+      width: 66
+      height: 26
+    spriteID: 46a52b005fa198a49bbe4289979646a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 99}
+    spritePosition: {x: 471, y: 125}
+  - name: left_leg_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 137
+      width: 29
+      height: 125
+    spriteID: cd227f3b577a64a4f8505c049f503dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 137}
+    spritePosition: {x: 468, y: 135}
+  - name: left_thigh_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 270
+      width: 28
+      height: 109
+    spriteID: 7cac3fedb34592d44a32d4396c9b11d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 270}
+    spritePosition: {x: 469, y: 234}
+  - name: pelvis_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 137
+      y: 4
+      width: 66
+      height: 52
+    spriteID: 128a2340a0fcd62428b124e65cb2afe0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 137, y: 4}
+    spritePosition: {x: 431, y: 328}
+  - name: left_arm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 342
+      width: 31
+      height: 128
+    spriteID: 9ed25e08171d6cb488bcf1f76607ac2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 342}
+    spritePosition: {x: 469, y: 286}
+  - name: left_forearm_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 206
+      width: 35
+      height: 108
+    spriteID: 8660f43017e7dd347aa78aaca2e32201
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 206}
+    spritePosition: {x: 469, y: 401}
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Windows Store Apps
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: right_arm_3
+    spriteName: right_arm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aec58614e21367544b5fe766d429e8af
+    layerID: 1864
+    mosaicPosition: {x: 4, y: 206}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: right_forearm_3
+    spriteName: right_forearm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eef480c0a51eb6d47936350c4a8c0a31
+    layerID: 1859
+    mosaicPosition: {x: 100, y: 387}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: body_3
+    spriteName: body_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b521b28ac8d37284a8f0d8eb6d2b0449
+    layerID: 1854
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: right_shoes_2
+    spriteName: right_shoes_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 59b6795649532bd46954bcc5dd18904b
+    layerID: 1825
+    mosaicPosition: {x: 137, y: 64}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: right_leg_2
+    spriteName: right_leg_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8fc22f388ec6d65458fdbfe1901aa1f2
+    layerID: 1824
+    mosaicPosition: {x: 100, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: right_thigh_2
+    spriteName: right_thigh_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a28320cd2ba38fc46b9f4d42a3c24764
+    layerID: 1819
+    mosaicPosition: {x: 45, y: 322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_shoes_2
+    spriteName: left_shoes_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 46a52b005fa198a49bbe4289979646a3
+    layerID: 1813
+    mosaicPosition: {x: 137, y: 99}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_leg_2
+    spriteName: left_leg_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cd227f3b577a64a4f8505c049f503dec
+    layerID: 1812
+    mosaicPosition: {x: 100, y: 137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_thigh_2
+    spriteName: left_thigh_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7cac3fedb34592d44a32d4396c9b11d0
+    layerID: 1807
+    mosaicPosition: {x: 100, y: 270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: pelvis_2
+    spriteName: pelvis_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 128a2340a0fcd62428b124e65cb2afe0
+    layerID: 1801
+    mosaicPosition: {x: 137, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_arm_3
+    spriteName: left_arm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ed25e08171d6cb488bcf1f76607ac2f
+    layerID: 1874
+    mosaicPosition: {x: 4, y: 342}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_forearm_3
+    spriteName: left_forearm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8660f43017e7dd347aa78aaca2e32201
+    layerID: 1869
+    mosaicPosition: {x: 45, y: 206}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers:
+  - name: right_arm_3
+    spriteName: right_arm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aec58614e21367544b5fe766d429e8af
+    layerID: 1864
+    mosaicPosition: {x: 4, y: 206}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: right_forearm_3
+    spriteName: right_forearm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eef480c0a51eb6d47936350c4a8c0a31
+    layerID: 1859
+    mosaicPosition: {x: 100, y: 387}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: body_3
+    spriteName: body_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b521b28ac8d37284a8f0d8eb6d2b0449
+    layerID: 1854
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: right_shoes_2
+    spriteName: right_shoes_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 59b6795649532bd46954bcc5dd18904b
+    layerID: 1825
+    mosaicPosition: {x: 137, y: 64}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: right_leg_2
+    spriteName: right_leg_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8fc22f388ec6d65458fdbfe1901aa1f2
+    layerID: 1824
+    mosaicPosition: {x: 100, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: right_thigh_2
+    spriteName: right_thigh_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a28320cd2ba38fc46b9f4d42a3c24764
+    layerID: 1819
+    mosaicPosition: {x: 45, y: 322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_shoes_2
+    spriteName: left_shoes_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 46a52b005fa198a49bbe4289979646a3
+    layerID: 1813
+    mosaicPosition: {x: 137, y: 99}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_leg_2
+    spriteName: left_leg_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cd227f3b577a64a4f8505c049f503dec
+    layerID: 1812
+    mosaicPosition: {x: 100, y: 137}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_thigh_2
+    spriteName: left_thigh_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7cac3fedb34592d44a32d4396c9b11d0
+    layerID: 1807
+    mosaicPosition: {x: 100, y: 270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: pelvis_2
+    spriteName: pelvis_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 128a2340a0fcd62428b124e65cb2afe0
+    layerID: 1801
+    mosaicPosition: {x: 137, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_arm_3
+    spriteName: left_arm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ed25e08171d6cb488bcf1f76607ac2f
+    layerID: 1874
+    mosaicPosition: {x: 4, y: 342}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: left_forearm_3
+    spriteName: left_forearm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8660f43017e7dd347aa78aaca2e32201
+    layerID: 1869
+    mosaicPosition: {x: 45, y: 206}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: right_arm_3
+    spriteName: right_arm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 302de532f252d844caafc8a649b09185
+    layerID: 1864
+    mosaicPosition: {x: 4, y: 206}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: right_forearm_3
+    spriteName: right_forearm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6f64fefdb5d31084187b3158f7482332
+    layerID: 1859
+    mosaicPosition: {x: 100, y: 387}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: body_3
+    spriteName: body_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 580a52367df7f354084ebeeccfa14083
+    layerID: 1854
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: right_shoes_2
+    spriteName: right_shoes_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9c0c6d9dfb363b1468bc58b5f7973bc0
+    layerID: 1825
+    mosaicPosition: {x: 137, y: 64}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: right_leg_2
+    spriteName: right_leg_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b703d5816d5b50b438dbe2ebe7c7779b
+    layerID: 1824
+    mosaicPosition: {x: 100, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: right_thigh_2
+    spriteName: right_thigh_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 141e4b8d391f0464badd633947bb1ef6
+    layerID: 1819
+    mosaicPosition: {x: 45, y: 322}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: left_shoes_2
+    spriteName: left_shoes_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 665442e9eba399a468ed3cff16f488df
+    layerID: 1813
+    mosaicPosition: {x: 137, y: 99}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: left_leg_2
+    spriteName: left_leg_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0120b828cd97b5a4fb6d99367a8c37d4
+    layerID: 1812
+    mosaicPosition: {x: 100, y: 137}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: left_thigh_2
+    spriteName: left_thigh_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 85a0b49e3ad5a1b4f80d0de31d85094b
+    layerID: 1807
+    mosaicPosition: {x: 100, y: 270}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: pelvis_2
+    spriteName: pelvis_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d1076661299ecb34ba75b6ed38a91a6e
+    layerID: 1801
+    mosaicPosition: {x: 137, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: left_arm_3
+    spriteName: left_arm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 970b9d697e41aff43b0afa4f9ccc7319
+    layerID: 1874
+    mosaicPosition: {x: 4, y: 342}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: left_forearm_3
+    spriteName: left_forearm_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b26fc6580e20e0448801f9ef8cb916aa
+    layerID: 1869
+    mosaicPosition: {x: 45, y: 206}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: char_morris_quarter_tshirt_normal Texture
+  prefabAssetName: char_morris_quarter_tshirt_normal Prefab
+  spriteLibAssetName: char_morris_quarter_tshirt_normal Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []
